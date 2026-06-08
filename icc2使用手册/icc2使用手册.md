@@ -70,7 +70,7 @@ icc2_output.txt：全量输出日志。
 icc2_shell> start_gui
 ```
 
-![图 1（1904x1213）](icc2使用手册_assets/image-01.png)
+![图 1（1904x1213）](icc2_extracted_images/image-01.png)
 
 也可以在终端输入icc2_shell -gui
 
@@ -86,7 +86,7 @@ icc2_shell> start_gui
 
 将 GUI 窗口最大化：布局视图会自动适配窗口大小。
 
-![图 2（1568x1095）](icc2使用手册_assets/image-05.png)
+![图 2（1568x1095）](icc2_extracted_images/image-05.png)
 
 当前加载的是已完成宏摆放、电源网格、标准单元布局的 ORCA 设计。你能直观看到：
 
@@ -110,7 +110,7 @@ GUI 顶部有 Zoom（缩放）、Pan（平移） 按钮：
 
 退出缩放 / 平移：按键盘 Esc 键，或点击左上角白色箭头（选择工具）。
 
-![图 3（480x299）](icc2使用手册_assets/image-06.png)
+![图 3（480x299）](icc2_extracted_images/image-06.png)
 
 快捷键
 
@@ -144,7 +144,7 @@ GUI 顶部有 Zoom（缩放）、Pan（平移） 按钮：
 
 顶部菜单：Help → Report Hotkey Bindings，会弹出热键清单窗口，查看完毕关闭窗口即可。
 
-![图 4（701x822）](icc2使用手册_assets/image-07.png)
+![图 4（701x822）](icc2_extracted_images/image-07.png)
 
 注：一般用键盘方向键和鼠标滚轮即可，个人感觉手势模式不太好用
 
@@ -158,7 +158,7 @@ GUI 顶部有 Zoom（缩放）、Pan（平移） 按钮：
 
 默认状态下，我们要想隐藏某层，需要在勾选后点击apply才能查看隐藏后的效果，在 View Settings 面板顶部，勾选 Auto apply，修改后立即生效，以后我们就无需手动点 Apply。
 
-![图 5（692x367）](icc2使用手册_assets/image-08.png)
+![图 5（692x367）](icc2_extracted_images/image-08.png)
 
 ### 步骤 2：控制各类设计对象显示（Objects 标签）
 
@@ -170,7 +170,7 @@ GUI 顶部有 Zoom（缩放）、Pan（平移） 按钮：
 
 放大任意一个宏单元，展开左侧 Labels 目录，额外勾选 Pin → 引脚名称也会显示；
 
-![图 6（448x788）](icc2使用手册_assets/image-09.png)
+![图 6（448x788）](icc2_extracted_images/image-09.png)
 
 ### 步骤 3：控制对象「可选中」权限
 
@@ -208,7 +208,7 @@ GUI 顶部有 Zoom（缩放）、Pan（平移） 按钮：
 
 拖动面板横向滚动条，查看图层更多配置项，最后点击重置箭头恢复默认图层设置。
 
-![图 7（460x943）](icc2使用手册_assets/image-10.png)
+![图 7（460x943）](icc2_extracted_images/image-10.png)
 
 ## Task 4：对象选中 & 属性查询（核心查询功能）
 
@@ -224,7 +224,7 @@ GUI 顶部有 Zoom（缩放）、Pan（平移） 按钮：
 
 界面左下角弹出 InfoTip：实时显示对象基础属性。
 
-![图 8（681x284）](icc2使用手册_assets/image-11.png)
+![图 8（681x284）](icc2_extracted_images/image-11.png)
 
 ### 步骤 3：单选、多选操作
 
@@ -294,7 +294,7 @@ View Settings 顶部有亮度滑块，降低未选中对象亮度，提升选中
 
 💡 原厂应用：布局后检查宏内部阻塞、IP 接口连通性时必用此功能。
 
-![图 9（624x487）](icc2使用手册_assets/image-12.png)
+![图 9（624x487）](icc2_extracted_images/image-12.png)
 
 ## Task 6：GUI 面板重组（自定义界面布局）
 
@@ -350,7 +350,7 @@ Collapse：折叠面板（节省空间）。
 
 选中第一条端点，右键 → Select Worst Path：布局视图中自动高亮最差时序路径。
 
-![图 10（1904x1215）](icc2使用手册_assets/image-02.png)
+![图 10（1904x1215）](icc2_extracted_images/image-02.png)
 
 ## Task 8：最近操作 & 收藏夹
 
@@ -366,7 +366,7 @@ GUI 左上角 Recent 下拉菜单：记录你近期所有 GUI 操作（拥塞分
 
 右侧 Favorites 面板会新增该功能，永久收藏，下次直接点击使用。
 
-![图 11（343x303）](icc2使用手册_assets/image-03.png)
+![图 11（343x303）](icc2_extracted_images/image-03.png)
 
 ## Task 9：工具帮助体系（重中之重）
 
