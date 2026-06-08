@@ -72,7 +72,11 @@ icc2_shell> start_gui
 
 ![图 1（1904x1213）](icc2_extracted_images/image-01.png)
 
-也可以在终端输入icc2_shell -gui
+也可以在终端输入
+
+```tcl
+icc2_shell -gui
+```
 
 即可打开图形化界面
 
